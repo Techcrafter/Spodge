@@ -1,0 +1,27 @@
+--atlas -f rgba8888 -z auto
+techcrafter.png
+background.png
+playerBlue.png
+playerGreen.png
+playerRed.png
+playerYellow.png
+meteorBrown_tiny1.png
+meteorGrey_tiny1.png
+meteorBrown_tiny2.png
+meteorGrey_tiny2.png
+meteorBrown_small1.png
+meteorGrey_small1.png
+meteorBrown_small2.png
+meteorGrey_small2.png
+meteorBrown_med1.png
+meteorGrey_med1.png
+meteorBrown_med3.png
+meteorGrey_med2.png
+meteorBrown_big1.png
+meteorGrey_big1.png
+meteorBrown_big3.png
+meteorGrey_big3.png
+meteorBrown_big4.png
+meteorGrey_big2.png
+meteorGrey_big4.png
+meteorBrown_big2.png
